@@ -8,6 +8,6 @@ Tasks to be completed.
 Level 1:
      Task 1 :  String Reversal 
      Status : Completed
-     Image : ![Alt text](image.png)
+     Image : Attached
 
      Task 2 : 
